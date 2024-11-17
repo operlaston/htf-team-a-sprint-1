@@ -15,8 +15,8 @@ function App() {
           <li> <button className = "nav_button">Button3</button></li>
           <li> <button className = "nav_button">Button4</button></li>
         </ul>
-        
       </nav>
+      
       <div>
         <a href="https://vite.dev" target="_blank">
           <img src={viteLogo} className="logo" alt="Vite logo" />
