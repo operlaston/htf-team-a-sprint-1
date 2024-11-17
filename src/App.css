@@ -62,3 +62,12 @@
 .navigation_list li {
   margin: 0 20px;
 }
+
+.footer {
+  background-color: #f1f1f1;
+  text-align: center;
+  padding: 1rem;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+}

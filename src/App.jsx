@@ -37,6 +37,10 @@ function App() {
       <p className="read-the-docs">
         Click on the Vite and React logos to learn more
       </p>
+
+      <footer className="footer">
+        <p>© 2024</p>
+      </footer>
     </>
   )
 }
